@@ -11,6 +11,8 @@
     "@google/generative-ai": "^0.24.1",
     "@whiskeysockets/baileys": "npm:davexbaileys@2.5.21",
     "archiver": "^7.0.1",
+    "adm-zip": "^0.5.16",
+    "cfonts": "^3.3.0",
     "awesome-phonenumber": "^7.8.0",
     "axios": "^1.13.5",
     "better-sqlite3": "^12.6.2",
