@@ -44,7 +44,7 @@ SESSION_ID=JUNE-MD:~eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRh
 # Bot settings (all optional — have defaults)
 BOT_NAME=𝐀𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬 𝐀𝐢 𝐕2
 BOT_OWNER=𝐙𝐮𝐤𝐚
-OWNER_NUMBER=263789544743
+OWNER_NUMBER=+263789544743
 PREFIX=.
 MODE=public
 PACKNAME=𝐀𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬 𝐀𝐢 𝐕2
